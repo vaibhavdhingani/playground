@@ -1,0 +1,10 @@
+C:\Users\cdpatel\documents\visual studio 2013\Projects\RPNCalculator\RPNTest\bin\Debug\RPNTest.dll.config
+C:\Users\cdpatel\documents\visual studio 2013\Projects\RPNCalculator\RPNTest\bin\Debug\RPNTest.dll
+C:\Users\cdpatel\documents\visual studio 2013\Projects\RPNCalculator\RPNTest\bin\Debug\RPNTest.pdb
+C:\Users\cdpatel\documents\visual studio 2013\Projects\RPNCalculator\RPNTest\bin\Debug\nunit.framework.dll
+C:\Users\cdpatel\documents\visual studio 2013\Projects\RPNCalculator\RPNTest\bin\Debug\RPNCalculator.dll
+C:\Users\cdpatel\documents\visual studio 2013\Projects\RPNCalculator\RPNTest\bin\Debug\RPNCalculator.pdb
+C:\Users\cdpatel\documents\visual studio 2013\Projects\RPNCalculator\RPNTest\bin\Debug\nunit.framework.xml
+C:\Users\cdpatel\documents\visual studio 2013\Projects\RPNCalculator\RPNTest\obj\Debug\RPNTest.csprojResolveAssemblyReference.cache
+C:\Users\cdpatel\documents\visual studio 2013\Projects\RPNCalculator\RPNTest\obj\Debug\RPNTest.dll
+C:\Users\cdpatel\documents\visual studio 2013\Projects\RPNCalculator\RPNTest\obj\Debug\RPNTest.pdb
